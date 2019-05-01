@@ -1,0 +1,16 @@
+.outsideContainer{
+    background-color: yellow;
+    max-width: 120rem;
+    margin:8rem auto;
+    min-height: 50rem;
+}
+
+.headerFlexContainer{
+    display: flex;
+    background-color:green;
+    height:7rem;
+}
+
+.ansGrid{
+    background-color: red;
+}
